@@ -13,7 +13,7 @@ export const Footer = () => {
       <div className='flex items-center gap-2'>
         <p
           className={cn(
-            'text-sl tracking-tight',
+            'text-shadow-neon text-sl tracking-tight',
             font.className
           )}
         >
