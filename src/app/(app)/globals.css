@@ -124,9 +124,9 @@
     -webkit-text-stroke-width: 1px;
     -webkit-text-stroke-color: #BFBFBF;
   }
-  /* .text-shadow-neon {
-    text-shadow: 1px 1px #222222;
+  .text-shadow-neon {
+    text-shadow: 1px 1px #BDBFBF;
     -webkit-text-stroke-width: 1px;
-    -webkit-text-stroke-color: #BFBFBF;
-  } */
+    -webkit-text-stroke-color: #242614;
+  }
 }
